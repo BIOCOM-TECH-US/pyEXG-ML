@@ -1,12 +1,12 @@
-# pyBrainML
+# pyEXG-ML
 
 This repository provides tools for real-time BCI streaming and ML utilities built on top of [BrainFlow](https://brainflow.org/).
 
 ## Installation
-Clone the repo (https://github.com/X1-McFly/pyBrainML.git):
+Clone the repo (https://github.com/BIOCOM-TECH-US/pyEXG-ML.git):
 ```
-git clone https://github.com/X1-McFly/pyBrainML.git
-cd pyBrainML
+git clone https://github.com/BIOCOM-TECH-US/pyEXG-ML.git
+cd pyEXG-ML
 ```
 
 Create a virtual environment:
